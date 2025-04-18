@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaurya Jain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/shauryastwt" target="blank"><img src="https://img.shields.io/twitter/follow/shauryastwt?logo=twitter&style=for-the-badge" alt="shauryastwt" /></a> </p>
-
 - 🔭 I’m currently working on **JPMC's trading systems**
 
 - 🌱 I’m currently learning **Java, Springboot**
