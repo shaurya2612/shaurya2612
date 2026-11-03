@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working on **JPMC's trading systems**
 
-- 🌱 I’m currently learning **Java, Springboot**
-
-- 👯 I’m looking to collaborate on **ambitious projects**
-
-- 🤝 I’m looking for help with [Circle](https://github.com/shaurya2612/TheCircle)
-
 - 📝 I regularly write articles on [https://shauryajain.hashnode.dev/](https://shauryajain.hashnode.dev/)
 
-- 💬 Ask me about **React native and Firebase**
+- 💬 Ask me about **anything javascript**
 
 - 📫 Reach out to me on **shaurya26.jain2@gmail.com**
 
